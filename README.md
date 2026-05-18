@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/prakharrsharrma" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:prakharrsharma@gmail.com">
+  <a href="mailto:prakharrsharrma@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://github-profile-trophy-alpha.vercel.app/?username=prakharrsharrma&theme=tokyonight&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
 </p>
----
+
 
 ## 👨‍💻 About Me
 
