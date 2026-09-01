@@ -23,7 +23,6 @@ I am a **Full-Stack Software Engineer** with over 4 years of experience designin
 Beyond the web stack, I focus heavily on computational efficiency, distributed architectures, and emerging domains like **neuromorphic computing architectures** (memristors) and the crossroads of physics and systems hardware.
 
 - 🚀 **Current Focus**: Enhancing backend scalability, mastering advanced database patterns, and expanding automated scripting capabilities.
-- 🧪 **Research Interests**: Hardware-level neural mapping, quantum computing frameworks, and biological-to-technical data translation.
 - ⚙️ **Key Achievements**: Architected 3 production MERN applications from scratch, scaled systems to thousands of daily active users, and slashed page load times by up to 40%.
 
 ---
@@ -74,15 +73,6 @@ Beyond the web stack, I focus heavily on computational efficiency, distributed a
 <p align="center">
   <img src="https://github-readme-profile-alpha.vercel.app/api?username=prakharrsharrma&theme=tokyonight" alt="Profile Summary Layout" width="100%" />
 </p>
-
----
-
-## 📊 Activity & Contribution Matrix
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakharrsharrma&theme=tokyonight" alt="Contribution Graph" width="100%" />
-</p>
-
 ---
 
 <p align="center">
